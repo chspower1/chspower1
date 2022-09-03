@@ -1,10 +1,21 @@
 ### Hi there 👋
 
+```js
+const Me = {
+    name : "ChoHoSung",
+    pronouns : "he",
+    code : [Typescript,JavaScript, HTML, CSS, SCSS],
+    tools : [React, Recoil,React-qurey, Next],
+    goals : Front End || Full Stack😄
+  }
+```
+
+✨YEAH~~😆✨
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chspower1&show_icons=true&theme=blueberry)
 <!--
-**chspower1/chspower1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**chpsower1/chspower1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
