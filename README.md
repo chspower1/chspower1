@@ -6,7 +6,7 @@ const Me = {
     pronouns : "he",
     code : [Typescript,JavaScript],
     tools : {
-        front : [React, Nextjs, TanstackQuery, Recoil, ReactHookForm, Axios],
+        front : [React, Nextjs, TanstackQuery, SWR, Recoil, ReactHookForm, Axios],
         back : [Nextjs, Express, Prisma],
         style : [StyledComponents, Tailwind, FramerMotion]
         },
