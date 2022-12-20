@@ -6,9 +6,9 @@ const Me = {
     pronouns : "he",
     code : [Typescript,JavaScript],
     tools : {
-        front : [React, Next.js, Tanstack-query, Recoil, React-hook-form],
-        back : [Next.js, express, prisma],
-        style : [styled-components, tailwind]
+        front : [React, Nextjs, TanstackQuery, Recoil, ReactHookForm, Axios],
+        back : [Nextjs, Express, Prisma],
+        style : [StyledCcomponents, Tailwind, FramerMotion]
         },
     goals : Front End || Full Stack😄
   }
