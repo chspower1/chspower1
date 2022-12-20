@@ -4,8 +4,12 @@
 const Me = {
     name : "ChoHoSung",
     pronouns : "he",
-    code : [Typescript,JavaScript, HTML, CSS, SCSS],
-    tools : [React, Recoil,React-qurey, Next],
+    code : [Typescript,JavaScript],
+    tools : {
+        front : [React, Next.js, Tanstack-query, Recoil, React-hook-form],
+        back : [Next.js, express, prisma],
+        style : [styled-components, tailwind]
+        },
     goals : Front End || Full Stack😄
   }
 ```
