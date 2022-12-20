@@ -8,7 +8,7 @@ const Me = {
     tools : {
         front : [React, Nextjs, TanstackQuery, Recoil, ReactHookForm, Axios],
         back : [Nextjs, Express, Prisma],
-        style : [StyledCcomponents, Tailwind, FramerMotion]
+        style : [StyledComponents, Tailwind, FramerMotion]
         },
     goals : Front End || Full Stack😄
   }
