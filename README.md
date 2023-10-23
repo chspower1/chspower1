@@ -1,20 +1,7 @@
 ### Hi there 👋
 
 ```js
-const Me = {
-    name : "ChoHoSung",
-    pronouns : "he",
-    code : [Typescript,JavaScript],
-    tools : {
-        front : [React, Nextjs, TanstackQuery, Swr, Recoil, ReactHookForm, Axios],
-        back : [Nextjs, Express, Prisma],
-        style : [StyledComponents, Tailwind, FramerMotion]
-        },
-    goals : Front End || Full Stack😄
-  }
-```
 
-✨YEAH~~😆✨
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chspower1&show_icons=true&theme=blueberry)
 
